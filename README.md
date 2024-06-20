@@ -1,13 +1,4 @@
-# frontend-ripledd
-# Ripledd is open source application. Rights to use code are granted by Pixelrow Ltd.;
+# Ripledd-CDN
 
-# Limitations---------------------------------------------------------------------------------
-All shared sources are fully allowed to use in other projects or for any other purposes. Using Ripledd / Pixelrow foundation as own brand is strictly prohibited.
-
-# Terms---------------------------------------------------------------------------------------
-
-https://ripledd.com/center/policy-terms
-
-
-
-Pixelrow Ltd. ©2022
+>[!NOTE]
+>This Repository hold the files require to server the cdn files for https://ripledd.com
